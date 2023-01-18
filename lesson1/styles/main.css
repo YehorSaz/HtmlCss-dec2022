@@ -16,6 +16,8 @@ h2 > a {
 
 li {
     font-style: italic;
+    margin-bottom: 5px;
+    list-style-type: none;
 }
 
 span {
