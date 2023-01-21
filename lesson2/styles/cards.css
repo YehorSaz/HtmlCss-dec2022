@@ -35,7 +35,7 @@ body {
     padding: 10px;
 }
 
-#box-href {
+.box-href {
     margin-top: 20px;
     display: flex;
     border: 1px solid black;
