@@ -1,0 +1,44 @@
+.container {
+    box-sizing: border-box;
+    padding: 2.5vh 2vh 0 2vh;
+    width: 100%;
+}
+
+.container_header {
+    width: 100%;
+    height: 30vh;
+    margin-bottom: 2.5vh;
+    background-color: silver;
+}
+
+.container_body {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    column-gap: 2.5vh;
+}
+
+.container_body_l {
+    width: 70%;
+    height: 63vh;
+    background-color: silver;
+}
+
+.container_body_r {
+    width: 30%;
+    background-color: silver;
+}
+
+.bd_radius {
+    border-radius: 15px;
+}
+
+.align_font {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 250%;
+    font-weight: 1000;
+    color: gray;
+}
